@@ -10,6 +10,11 @@ mkLINK provides a focused graphical workflow for selecting one or more files and
 
 The project is designed for Windows users who want direct access to standard NTFS link operations without relying on a command prompt for each operation.
 
+
+![Logo](https://i.postimg.cc/mr0d0QWn/825323162-17946851943301934-587677203323041835-n.jpg)
+
+
+
 ## Features
 
 - Add files and folders as link sources.
