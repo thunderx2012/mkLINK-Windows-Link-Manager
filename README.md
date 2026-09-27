@@ -111,7 +111,7 @@ See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for the applicable third-pa
 Open Windows PowerShell in the project directory and run:
 
 ```powershell
-.\在Windows建立EXE.ps1
+.\createEXE.ps1
 ```
 
 The script configures a Windows x64 build and produces:
