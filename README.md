@@ -162,9 +162,9 @@ go build -trimpath -ldflags='-s -w -H=windowsgui' -o mkLINK_v1.5.22.exe .
 
 The mkLINK source code and original project documentation are licensed under the **GNU General Public License, version 3.0**.
 
-See the complete license text in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+See the complete license text in [THIRD_PARTY_NOTICES.md](LICENSE).
 
-Third-party assets retain their own applicable licenses. In particular, the bundled Primer Octicons assets are distributed under the MIT License; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+Third-party assets retain their own applicable licenses. In particular, the bundled Primer Octicons assets are distributed under the MIT License; see [THIRD_PARTY_NOTICES.md](LICENSE).
 
 ---
 
